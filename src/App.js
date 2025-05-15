@@ -8,6 +8,7 @@ import ChangeColour_05 from './components/ChangeColour_05';
 import DispalyName_06 from './components/DisplayName_06';
 import TextMirror_07 from './components/TextMirror_07';
 import DoubleNumber_08 from './components/DoubleNumber_08';
+import Lists_09 from './components/Lists_09';
 
 function App() {
   return (
@@ -19,7 +20,8 @@ function App() {
       {/* <ChangeColour_05/> */}
       {/* <DispalyName_06/> */}
       {/* <TextMirror_07/> */}
-      <DoubleNumber_08/>
+      {/* <DoubleNumber_08/> */}
+      <Lists_09/>
     </div>
   );
 }
