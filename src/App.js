@@ -5,6 +5,7 @@ import GreetingComponent_02 from './components/GreetingComponent_02';
 import Toggle_03 from './components/Toggle_03';
 import ButtonDisable_04 from './components/ButtonDisable_04';
 import ChangeColour_05 from './components/ChangeColour_05';
+import DispalyName_06 from './components/DisplayName_06';
 
 function App() {
   return (
@@ -13,7 +14,8 @@ function App() {
       {/* <GreetingComponent_02  name="John Luther"/> */}
       {/* <Toggle_03/> */}
       {/* <ButtonDisable_04/> */}
-      <ChangeColour_05/>
+      {/* <ChangeColour_05/> */}
+      <DispalyName_06/>
     </div>
   );
 }
