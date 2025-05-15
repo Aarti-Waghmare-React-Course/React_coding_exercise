@@ -1,3 +1,7 @@
+// 2. Greeting Component
+// Create a component that takes a name as a prop and displays a greeting like "Hello, [Name]!".
+// Concepts: props, JSX.
+
 import react from 'react';
 
 const GreetingComponent_02 = (props) =>{
