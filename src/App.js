@@ -12,6 +12,7 @@ import Lists_09 from './components/Lists_09';
 import ListsRendering_10 from './components/ListsRendering_10';
 import ListsUniqueKeys_11 from './components/ListsUniqueKeys_11';
 import ListsObjects_12 from './components/ListsObjects_12';
+import ListsConditions_13 from './components/ListsConditions_13';
 
 function App() {
   return (
@@ -27,7 +28,8 @@ function App() {
       {/* <Lists_09/> */}
       {/* <ListsRendering_10/> */}
       {/* <ListsUniqueKeys_11/> */}
-      <ListsObjects_12/>
+      {/* <ListsObjects_12/> */}
+      <ListsConditions_13/>
     </div>
   );
 }
