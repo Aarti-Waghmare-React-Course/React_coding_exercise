@@ -10,6 +10,7 @@ import TextMirror_07 from './components/TextMirror_07';
 import DoubleNumber_08 from './components/DoubleNumber_08';
 import Lists_09 from './components/Lists_09';
 import ListsRendering_10 from './components/ListsRendering_10';
+import ListsUniqueKeys_11 from './components/ListsUniqueKeys_11';
 
 function App() {
   return (
@@ -23,7 +24,8 @@ function App() {
       {/* <TextMirror_07/> */}
       {/* <DoubleNumber_08/> */}
       {/* <Lists_09/> */}
-      <ListsRendering_10/>
+      {/* <ListsRendering_10/> */}
+      <ListsUniqueKeys_11/>
     </div>
   );
 }
