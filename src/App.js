@@ -16,6 +16,7 @@ import ListsConditions_13 from './components/ListsConditions_13';
 import ListsEvents_14 from './components/ListsEvents_14';
 import TodoList_15 from './components/TodoList_15';
 import ListWordFilter_16 from './components/ListWordFilter_16';
+import ProductList_17 from './components/ProductList_17';
 
 function App() {
   return (
@@ -35,7 +36,8 @@ function App() {
       {/* <ListsConditions_13/> */}
       {/* <ListsEvents_14/> */}
       {/* <TodoList_15/> */}
-      <ListWordFilter_16/>
+      {/* <ListWordFilter_16/> */}
+      <ProductList_17/>
     </div>
   );
 }
