@@ -1,4 +1,5 @@
 // You have an array of product objects. Show each product's name and price.
+import react from 'react';
 
 const ProductList_17 = () =>{
     const products = [
