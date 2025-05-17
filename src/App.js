@@ -24,6 +24,7 @@ import ProductEdit_21 from './components/ProductEdit_21';
 import ProductSort_22 from './components/ProductSort_22';
 import ProductFilter_23 from './components/ProductFilter_23';
 import ProductPagination_24 from './components/ProductPagination_24';
+import ProductPaginationNumbers_25 from './components/ProductPaginationNumbers_25';
 
 function App() {
   return (
@@ -51,7 +52,8 @@ function App() {
       {/* <ProductEdit_21/> */}
       {/* <ProductSort_22/> */}
       {/* <ProductFilter_23/> */}
-      <ProductPagination_24/>
+      {/* <ProductPagination_24/> */}
+      <ProductPaginationNumbers_25/>
     </div>
   );
 }
