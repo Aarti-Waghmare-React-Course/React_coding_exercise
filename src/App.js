@@ -20,6 +20,7 @@ import ProductList_17 from './components/ProductList_17';
 import ProductClick_18 from './components/ProductClick_18';
 import ProductDelete_19 from './components/ProductDelete_19';
 import ProductAdd_20 from './components/ProductAdd_20';
+import ProductEdit_21 from './components/ProductEdit_21';
 
 function App() {
   return (
@@ -43,7 +44,8 @@ function App() {
       {/* <ProductList_17/> */}
       {/* <ProductClick_18/> */}
       {/* <ProductDelete_19/> */}
-      <ProductAdd_20/>
+      {/* <ProductAdd_20/> */}
+      <ProductEdit_21/>
     </div>
   );
 }
