@@ -19,6 +19,7 @@ import ListWordFilter_16 from './components/ListWordFilter_16';
 import ProductList_17 from './components/ProductList_17';
 import ProductClick_18 from './components/ProductClick_18';
 import ProductDelete_19 from './components/ProductDelete_19';
+import ProductAdd_20 from './components/ProductAdd_20';
 
 function App() {
   return (
@@ -41,7 +42,8 @@ function App() {
       {/* <ListWordFilter_16/> */}
       {/* <ProductList_17/> */}
       {/* <ProductClick_18/> */}
-      <ProductDelete_19/>
+      {/* <ProductDelete_19/> */}
+      <ProductAdd_20/>
     </div>
   );
 }
